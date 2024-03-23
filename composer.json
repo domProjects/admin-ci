@@ -10,7 +10,7 @@
         "shield",
         "settings"
     ],
-    "type": "project",
+    "type": "library",
     "homepage": "https://domprojects.com",
     "license": "MIT",
     "authors": [
