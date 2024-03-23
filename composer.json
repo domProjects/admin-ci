@@ -1,5 +1,5 @@
 {
-    "name": "domprojects/adminCI",
+    "name": "domprojects/admin-ci",
     "description": "Template for the frontend and backend based on Bootstrap",
     "keywords": [
         "bootstrap",
@@ -21,8 +21,8 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/domprojects/adminci/issues",
-        "source": "https://github.com/domprojects/adminci"
+        "issues": "https://github.com/domprojects/admin-ci/issues",
+        "source": "https://github.com/domprojects/admin-ci"
     },
     "require": {
         "php": "^7.4 || ^8.0",
