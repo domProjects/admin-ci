@@ -1,0 +1,44 @@
+{
+    "name": "domprojects/adminCI",
+    "description": "Template for the frontend and backend based on Bootstrap",
+    "keywords": [
+        "bootstrap",
+        "template",
+        "frontend",
+        "backend",
+        "codeigniter",
+        "shield",
+        "settings"
+    ],
+    "type": "project",
+    "homepage": "https://domprojects.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Emmanuel Campait",
+            "email": "support@domprojects.com",
+            "homepage": "https://domprojects.com"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/domprojects/adminci/issues",
+        "source": "https://github.com/domprojects/adminci"
+    },
+    "require": {
+        "php": "^7.4 || ^8.0",
+        "codeigniter4/framework": "^4.0",
+        "codeigniter4/translations": "^4.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "domprojects\\adminci\\": "src/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "preferred-install": "dist",
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
