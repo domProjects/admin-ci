@@ -27,7 +27,6 @@
     "require": {
         "php": "^7.4 || ^8.0",
         "codeigniter4/framework": "^4.0",
-        "codeigniter4/translations": "^4.4"
     },
     "autoload": {
         "psr-4": {
